@@ -18,8 +18,8 @@
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:background="@color/white"
-            app:navigationIcon="@drawable/menu_medium"
-            app:title="Tienda" />
+            app:navigationIcon="@drawable/menu"
+            app:title="Mascotas" />
 
     </com.google.android.material.appbar.AppBarLayout>
 
